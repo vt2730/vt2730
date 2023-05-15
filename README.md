@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **vikashtiwary2730@gmail.com**
 
-- 📄 Know about my experiences [http://shorturl.at/ejFNV](https://shorturl.at/rRSYZ)
+- 📄 Know about my experiences [http://shorturl.at/ejFNV](
+https://shorturl.at/rRSYZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
