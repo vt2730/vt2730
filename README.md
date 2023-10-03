@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vt2730" alt="vt2730" /></a> </p>
 
-- 🔭 I’m currently working on [BingeStream](https://github.com/vt2730/netflix-MERN)
+- 🔭 I’m currently working on [Google Calendat clone](https://github.com/vt2730/CalendarEvents)
 
 - 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb**
 
