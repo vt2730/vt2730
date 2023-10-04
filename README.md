@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Google Calendar clone](https://github.com/vt2730/CalendarEvents)
 
-- 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb**
+- 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb,SSR,SSG**
 
 - 👯 I’m looking to collaborate on [material-ui](https://github.com/mui/material-ui)
 
