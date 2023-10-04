@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [material-ui](https://github.com/mui/material-ui)
 
-- 💬 Ask me about **react,nextjs,javascript**
+- 💬 Ask me about **react,nextjs,javascript,HTML/HTML-5,CSS/CSS-3**
 
 - 📫 How to reach me **vikashtiwary2730@gmail.com**
 
