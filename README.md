@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vikashtiwary2730@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Pz2bCkjznOc4nykV_HMLTq-M3rjOWnGr/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Pz2bCkjznOc4nykV_HMLTq-M3rjOWnGr/view?usp=drive_link](https://drive.google.com/file/d/12e-R_P8ZboV8jU7peULcfVajZ-DrRmB0/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
