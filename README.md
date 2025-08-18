@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vt2730" alt="vt2730" /></a> </p>
 
-- 🔭 I’m currently working on [Real Time Collab tool](https://github.com/vt2730/colab-draw)
+- 🔭 I’m currently working on [White Board Drawing canvas](https://github.com/vt2730/TL-Draw)
 
-- 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb,SSR,SSG**
-
-- 👯 I’m looking to collaborate on [material-ui](https://github.com/mui/material-ui)
+- 🌱 Experinced In Developeing Web APPs uisng **Nodejs,Expressjs,MongoDb,SSR,SSG**
 
 - 💬 Ask me about **react,nextjs,javascript,HTML/HTML-5,CSS/CSS-3**
 
