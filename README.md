@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vikashtiwary2730@gmail.com**
 
-- 📄 Know about my experiences [Resume]([GDrive Link](https://drive.google.com/file/d/1p0vjUBST8RlNwSABtEt7FHA_NWSA42x1/view)
+- 📄 Know about my experiences [Resume]([GDrive Link])(https://drive.google.com/file/d/1p0vjUBST8RlNwSABtEt7FHA_NWSA42x1/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
