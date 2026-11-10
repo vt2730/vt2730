@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vt2730&label=Profile%20views&color=0e75b6&style=flat" alt="vt2730" /> </p>
 
-<p align="left"> <a href="https://vt2730.github.io/portfolio/"></a> Portfolio</p>
-
 - 🌱 Experinced In Developeing Web APPs uisng **Nodejs,Expressjs,MongoDb,SSR,SSG**
 
 - 💬 Ask me about **react,nextjs,javascript,HTML/HTML-5,CSS/CSS-3**
