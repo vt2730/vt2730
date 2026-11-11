@@ -13,7 +13,7 @@ AI & Agents
 
 Tools & Others
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,jest,linux,heroku,c,java" alt="Tools" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,jest,linux,heroku,c" alt="Tools" /> </p>
 
 🚀 Featured Project
 <a href="https://vt2730.github.io/portfolio/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vt2730&repo=portfolio&theme=tokyonight&show_owner=true" alt="Portfolio repo card" /> </a> <!-- Add more pinned repos by copying the block above and changing repo=YOUR_REPO_NAME -->
